@@ -9,3 +9,10 @@ We will study our dataset to check the quality of wine whether it is good or not
 5. Preparing Data for Modelling
 6. Modelling
 7. Feature Importance
+
+## Objectives
+
+The objectives of this project are as follows
+1. To experiment with different classification methods to see which yields the highest accuracy
+2. To determine which features are the most indicative of a good quality wine
+With that said, here we go!
