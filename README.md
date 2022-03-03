@@ -4,11 +4,12 @@ We will study our dataset to check the quality of wine whether it is good or not
 
 1. Introduction
 2. Setup
-3. Exploring Variables
-4. Convert to a Classification Problem
-5. Preparing Data for Modelling
-6. Modelling
-7. Feature Importance
+3. Analyzing Data
+4. Exploratory Data Analysis
+5. Data Cleaning
+6. Convert to a Classification Problem
+7. Data Preprocessing
+8. Modelling
 
 ## Objectives
 
